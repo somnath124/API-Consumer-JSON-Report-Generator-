@@ -1,0 +1,63 @@
+{
+  "total_users": 10,
+  "total_posts": 100,
+  "total_comments": 500,
+  "posts_per_user": [
+    {
+      "user_id": 1,
+      "name": "Leanne Graham",
+      "post_count": 10
+    },
+    {
+      "user_id": 2,
+      "name": "Ervin Howell",
+      "post_count": 10
+    },
+    {
+      "user_id": 3,
+      "name": "Clementine Bauch",
+      "post_count": 10
+    },
+    {
+      "user_id": 4,
+      "name": "Patricia Lebsack",
+      "post_count": 10
+    },
+    {
+      "user_id": 5,
+      "name": "Chelsey Dietrich",
+      "post_count": 10
+    },
+    {
+      "user_id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "post_count": 10
+    },
+    {
+      "user_id": 7,
+      "name": "Kurtis Weissnat",
+      "post_count": 10
+    },
+    {
+      "user_id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "post_count": 10
+    },
+    {
+      "user_id": 9,
+      "name": "Glenna Reichert",
+      "post_count": 10
+    },
+    {
+      "user_id": 10,
+      "name": "Clementina DuBuque",
+      "post_count": 10
+    }
+  ],
+  "top_user_by_comments": {
+    "user_id": 1,
+    "name": "Leanne Graham",
+    "comment_count": 50
+  },
+  "average_post_length_characters": 160.64
+}
